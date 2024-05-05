@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['923054481589']
-global.ownername = "💙𓆩‎✘BILAL𓆪_✰"//owner name
+global.ownernumber = ['8134641349']
+global.ownername = "💙𓆩‎✘ELIMINATE𓆪_✰"//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
@@ -19,7 +19,7 @@ global.themeemoji = '🧩'
 global.wm = "BILAL botz inc."
 
 //theme link
-global.link = 'wa.me//+923054481589'
+global.link = 'wa.me//+8134641349'
 
 //custom prefix
 global.prefa = ['.']
